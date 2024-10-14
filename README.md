@@ -12,7 +12,8 @@ torch-spline-conv==1.2.2+pt24cu118
 torchaudio==2.4.0+cu118
 transformers==4.45.0.dev0
 
-**#### Generate pkl files for all data formats**
+#### Generate pkl files for all data formats
+
 python generate
 
 ## Example
